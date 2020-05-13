@@ -1,1 +1,1 @@
-"Análise de alguns dados, que foi feita utilizando um arquivo csv de consumo de cerveja, vinho e destilados no mundo. A análise mostra também alguns boxplots sobre o assunto." 
+Analysis of some data from a CSV file of consumption of beer, wine and spirits in the world, and some of the Boxplots on the subject.
